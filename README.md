@@ -266,8 +266,8 @@ Enter uncertainty for w: 0.15
 **Output:**
 ```
 Computed value: 15.0
-Absolute uncertainty: 0.781
-Fractional uncertainty: 0.0521
+Absolute uncertainty: 0.808
+Fractional uncertainty: 0.0539
 ```
 
 **Calculation Explanation:**
@@ -295,8 +295,8 @@ Enter uncertainty for v: 0.5
 **Output:**
 ```
 Computed value: 100.0
-Absolute uncertainty: 10.2
-Fractional uncertainty: 0.102
+Absolute uncertainty: 11.2
+Fractional uncertainty: 0.112
 ```
 
 **Calculation Explanation:**
